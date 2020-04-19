@@ -1,0 +1,24 @@
+
+Any is a top type, it is the most wide
+Never is a bottom type, it is the most arrow
+Tuples are ordered arrays
+
+Union Operators = typeA | typeB = they sandbox a type that will only allow you to access things
+that are shared in between
+
+Intersection Operators  = typeA & typeB = they sandbox you to only allow access to things
+that both have
+
+Overloading functions
+We can provide multiple function signatures to narrow down the way its called
+
+When to use type declarations
+1) lets
+2) in things that are defined at first as empty, i.e. arrays
+typescript will infer lots of types. 
+3) You should declare types on things
+you want to set boundaries on
+4) Should declare on returns of functions
+
+Follow ups
+lexical scope and use cases for function calls
