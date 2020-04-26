@@ -21,5 +21,12 @@ npm install
 npm start
 
 # Lessons Learned
+- classes
+- definite assignment
+- access modifiers
+- best practices converting to typescript
+- strict mode
+- implicit any
 
 ## Follow Ups
+- generics
